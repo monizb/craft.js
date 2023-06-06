@@ -72,7 +72,7 @@
     ]
   },
   "dependencies": {
-    "@babel/preset-typescript": "^7.7.7",
+    "@babel/preset-typescript": "^7.21.5",
     "all-contributors-cli": "^6.11.2",
     "rollup-plugin-typescript": "^1.0.1"
   },
