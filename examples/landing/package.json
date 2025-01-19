@@ -21,7 +21,7 @@
     "lzutf8": "^0.5.5",
     "next": "^10.2.0",
     "next-seo": "^4.24.0",
-    "postcss": "latest",
+    "postcss": "8.5.0",
     "re-resizable": "^6.1.0",
     "react": "17.0.2",
     "react-color": "^2.17.3",
