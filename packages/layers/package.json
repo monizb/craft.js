@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/prevwong/craft.js/",
   "dependencies": {
-    "@craftjs/utils": "^0.2.0-beta.1",
+    "@craftjs/utils": "^0.1.0",
     "react-contenteditable": "^3.3.3"
   },
   "devDependencies": {
